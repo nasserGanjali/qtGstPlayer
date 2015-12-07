@@ -1,0 +1,7 @@
+this player use QtGStreamer 
+
+configured to build in qt5 and armDesktop platform 
+
+add this environment in Build Environment :
+
+PKG_CONFIG_PATH   /home/nasser/project/buildroot/buildroot-2015.05/output/rootfs_nfs/usr/lib/pkgconfig
